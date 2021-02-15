@@ -7,7 +7,7 @@
                 if nums[i] + nums[j] == target:
                     lst = [i,j]
         return lst
-# Using hash table to reduce time-complexity
+# Using hash table to reduce time-complexity to O(n)
 # https://www.youtube.com/watch?v=2uWRxgN1Sbo&ab_channel=OverTheShoulderCoding
 # https://medium.com/@havbgbg68/leetcode-1-two-sum-python-8d77c223abd3
 
